@@ -4,7 +4,7 @@ from telebot import types
 import json
 import markovify
 
-bot = telebot.TeleBot('6701220413:AAFua3vKrmj51ImYp43bKGr7EoIEFbn6n-s')
+bot = telebot.TeleBot('<Bot-key>')
 
 megaString = ""
 
